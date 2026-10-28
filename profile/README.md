@@ -9,7 +9,7 @@ The goal is to provide a simple, modular way to manage Minecraft servers through
 
 Each project can be used independently where applicable. Check its repository for installation instructions, requirements, and supported versions.
 
-## Modrinth
+## Mods
 All our Minecraft mods are available on [Modrinth](https://modrinth.com). You can find them together in our [MSMP collection](https://modrinth.com/collection/VvHMvGxl).
 
 ## Contributing
