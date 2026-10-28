@@ -1,3 +1,4 @@
+# Minecraft Server Management
 Minecraft Server Management is an open-source organization focused on tools for managing and extending Minecraft servers.
 
 Our projects use the Minecraft Server Management Protocol (MSMP) to enable communication with Minecraft servers and add management features through Fabric mods.
