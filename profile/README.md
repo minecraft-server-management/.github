@@ -5,7 +5,7 @@ Minecraft Server Management is an open-source organization focused on tools for 
 Our projects use the Minecraft Server Management Protocol (MSMP) to enable communication with Minecraft servers and add management features through Fabric mods.
 
 ## Goal
-The goal is to provide a simple, modular way to manage Minecraft servers through a common protocol. The [`management-protocol`](https://github.com/minecraft-server-management/management-protocol) client library handles communication, while server-side mods provide additional functionality.
+The goal is to provide a simple, modular way to manage Minecraft servers through a common protocol. The [`management-protocol`](https://github.com/minecraft-server-management/management-protocol) client library handles communication, while [server-side mods](https://github.com/orgs/minecraft-server-management/repositories?q=props.project-type%3Aminecraft-fabric-mod) provide additional functionality.
 
 Each project can be used independently where applicable. Check its repository for installation instructions, requirements, and supported versions.
 
